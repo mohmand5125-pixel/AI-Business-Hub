@@ -1,0 +1,6 @@
+{
+  "name": "AI Business Hub",
+  "description": "An premium SEO-driven blogging platform and tools database to help small businesses, freelancers, and agencies leverage AI tools for growth and productivity.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
